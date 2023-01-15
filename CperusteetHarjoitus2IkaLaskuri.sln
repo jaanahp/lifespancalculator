@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CperusteetHarjoitus2IkaLaskuri", "CperusteetHarjoitus2IkaLaskuri\CperusteetHarjoitus2IkaLaskuri.csproj", "{AA2F5B46-E0F3-4876-B931-5126889A79EE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AA2F5B46-E0F3-4876-B931-5126889A79EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA2F5B46-E0F3-4876-B931-5126889A79EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA2F5B46-E0F3-4876-B931-5126889A79EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA2F5B46-E0F3-4876-B931-5126889A79EE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D11DFC13-2C3A-421E-9E05-41D4D5D81A6E}
+	EndGlobalSection
+EndGlobal
